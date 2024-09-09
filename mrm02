@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>小铭的在线HTML</title>
+	</head>
+	<body>
+		<div style="
+		background-color: purple;
+		max-width: 800px;
+		margin: 10px auto;
+		text-align: center;
+		padding: 40px;
+		">
+			<img src="http://mms2.baidu.com/it/u=4044186735,3400519612&fm=253&app=138&f=PNG?w=120&h=120" alt="小铭" width="80px" height="80px">
+		</div>
+		<div style="
+		max-width: 500px;
+		margin: 125px auto;
+		padding: 15px;
+		line-height: 1.6;
+		color: purple;
+		">
+			<h1>哈哈，傻了吧？</h1>
+		</div>
+		<div style="
+		background-color: purple;
+		max-width: 1000px;
+		text-align: center;
+		margin: 10px auto;
+		padding: 40px;
+		font-size: 12px;
+		">
+		<p>小铭的网站</p>
+		<a>友情链接</a>
+		</div>
+	</body>
+</html>
